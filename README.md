@@ -19,5 +19,14 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+
+### Plot 1
+![Plot 1](newplot.png)
+
+### Plot 2
+![Plot 2](newplot (1).png)
+
+### Plot 3
+![Plot 3](newplot (2).png)
+
 
