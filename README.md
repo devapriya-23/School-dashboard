@@ -17,3 +17,7 @@ This project is an interactive dashboard built using Streamlit and Plotly.
 ## How to run
 pip install -r requirements.txt  
 streamlit run app.py
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
